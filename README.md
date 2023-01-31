@@ -16,4 +16,6 @@
 ﻿﻿Active customers and Inactive costumers diverged the most when the Year was 2019, when Active customers were 131 higher than Inactive costumers.﻿﻿
 ﻿﻿
 ﻿
+ 
+ 
 ![Customer_Churn](https://user-images.githubusercontent.com/91919362/215817790-4eaec67b-e05b-4fae-a6d1-fa378d6f3be2.jpg)
