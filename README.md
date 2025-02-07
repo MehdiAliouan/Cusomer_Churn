@@ -23,11 +23,6 @@ The analysis provides valuable insights that can help banks develop effective lo
 
 ## Churn Analysis:
 
-#### It is advantageous for banks to know what leads a client towards the decision to leave the company.
-#### Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
-
-#### Analyse the data and bring out few insights on the customer Churn : 
-
 ﻿﻿Nov had the highest Exit customer at 307, followed by Dec and Sep. Feb had the lowest Exit customer at 58.﻿﻿
 ﻿﻿
 ﻿﻿Across all 12 Month, Exit customer ranged from 58 to 307.﻿﻿
